@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-dev/",
+    "build": "vite build --base=/fs126_js_Anastasiia-S100306/",
     "preview": "vite preview"
   },
   "devDependencies": {
